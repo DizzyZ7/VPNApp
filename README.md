@@ -7,7 +7,6 @@ Modern iOS VPN client built with Swift & NetworkExtension
 ## ✨ Preview
 
 ![VPN UI](https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=400)
-![Mobile UI](https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=400)
 
 ---
 
