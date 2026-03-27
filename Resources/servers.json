@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "name": "Germany #1",
+      "ip": "1.2.3.4",
+      "protocol": "ikev2",
+      "username": "user",
+      "password": "pass",
+      "ping": 35
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000002",
+      "name": "United States #1",
+      "ip": "5.6.7.8",
+      "protocol": "wireguard",
+      "username": "user",
+      "password": "pass",
+      "ping": 70
+    }
+  ]
+}
